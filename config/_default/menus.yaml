@@ -1,0 +1,13 @@
+leftnav:
+- identifier: 3d167dad-a4d5-cb58-a354-8e6b299e8ece
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 1fde938e-4780-8368-86f8-61b076a58fb9
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 4b181a6c-030a-ce24-893d-63d8f0842e92
+  name: Labs
+  pageRef: /pages/labs
+  weight: 30

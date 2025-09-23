@@ -1,0 +1,42 @@
+{
+  "term": "Fall",
+  "year": "2005",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Chemistry"
+    ]
+  ],
+  "legacy_uid": "c6c84363-b550-01b8-3184-8ea74a23efeb",
+  "instructors": {
+    "content": [
+      "9801e3c1-6857-aa5f-94b4-071caf758d0d",
+      "64cde08e-416f-44e7-f350-b9a64e1b2d50",
+      "9609c386-5198-6de4-e7bb-27577049df1f"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "f082636d-f8ce-7dc5-46d6-ee52bf0328e5",
+    "website": "5-311-introductory-chemical-experimentation-fall-2005"
+  },
+  "course_title": "Introductory Chemical Experimentation",
+  "course_description": "5.311 is the first of a three-term laboratory subject sequence for chemistry majors. Experimental work emphasizes development of fundamental laboratory skills and techniques: volumetric and colorimetric analysis; nuclear magnetic resonance; preparation, purification, and characterization of chemical substances; and data analysis.\n\nAcknowledgements\n----------------\n\nThe experiments for 5.311 have evolved over a period of many years and include contributions from past instructors, course textbooks, and others affiliated with the course. Thus for many of the lab documents, no single source can be attributed.\n\n**WARNING NOTICE**\n\nThe experiments described in these materials are potentially hazardous and require a high level of safety training, special facilities and equipment, and supervision by appropriate individuals. You bear the sole responsibility, liability, and risk for the implementation of such safety procedures and measures. MIT shall have no responsibility, liability, or risk for the content or implementation of any of the material presented.\n\n[Legal Notice](/terms/)\n",
+  "department_numbers": [
+    "5"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "5.311",
+  "course_image_thumbnail": {
+    "content": "33f82cb7-524f-83c8-550b-c586fa76616b",
+    "website": "5-311-introductory-chemical-experimentation-fall-2005"
+  },
+  "learning_resource_types": [],
+  "site_uid": "0eb259cb-9a75-42cd-9139-066465e21b13",
+  "site_short_id": "5.311-fall-2005",
+  "site_url_path": "courses/5-311-introductory-chemical-experimentation-fall-2005",
+  "title": "Course Metadata"
+}
