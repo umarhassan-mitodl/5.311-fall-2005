@@ -3,6 +3,8 @@ content_type: page
 description: The lab section lists the supporting files on the experiments covered
   in the course with the topics on kinetics, NMR, unknown aromatic carboxylic acid,
   and preparation of ferrocene and acetylferrocenes.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 ocw_type: CourseSection

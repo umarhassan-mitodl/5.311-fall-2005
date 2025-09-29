@@ -24,6 +24,7 @@
     "website": "5-311-introductory-chemical-experimentation-fall-2005"
   },
   "course_title": "Introductory Chemical Experimentation",
+  "hide_download": true,
   "course_description": "5.311 is the first of a three-term laboratory subject sequence for chemistry majors. Experimental work emphasizes development of fundamental laboratory skills and techniques: volumetric and colorimetric analysis; nuclear magnetic resonance; preparation, purification, and characterization of chemical substances; and data analysis.\n\nAcknowledgements\n----------------\n\nThe experiments for 5.311 have evolved over a period of many years and include contributions from past instructors, course textbooks, and others affiliated with the course. Thus for many of the lab documents, no single source can be attributed.\n\n**WARNING NOTICE**\n\nThe experiments described in these materials are potentially hazardous and require a high level of safety training, special facilities and equipment, and supervision by appropriate individuals. You bear the sole responsibility, liability, and risk for the implementation of such safety procedures and measures. MIT shall have no responsibility, liability, or risk for the content or implementation of any of the material presented.\n\n[Legal Notice](/terms/)\n",
   "department_numbers": [
     "5"
@@ -34,6 +35,7 @@
     "content": "33f82cb7-524f-83c8-550b-c586fa76616b",
     "website": "5-311-introductory-chemical-experimentation-fall-2005"
   },
+  "hide_download_original": true,
   "learning_resource_types": [],
   "site_uid": "0eb259cb-9a75-42cd-9139-066465e21b13",
   "site_short_id": "5.311-fall-2005",

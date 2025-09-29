@@ -4,6 +4,8 @@ description: The syllabus section provides detailed information about the four e
   on kinetics, NMR, unknown aromatic carboxylic acid and the preparation of ferrocene
   and acetylferrocene by which students gain experience in these areas by completing
   them.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
